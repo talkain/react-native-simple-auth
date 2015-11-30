@@ -8,4 +8,5 @@ target 'ReactNativeSimpleAuth' do
   pod 'SimpleAuth/Instagram'
   pod 'SimpleAuth/Tumblr'
   pod 'SimpleAuth/LinkedInWeb'
+  pod 'SimpleAuth/MailChimp'
 end
